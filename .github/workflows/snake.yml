@@ -22,3 +22,14 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README.md
+        run: |
+          echo "```" >> README.md
+          cat dist/github-snake.svg >> README.md
+          echo "```" >> README.md
+          echo "" >> README.md
+          echo "![GitHub activity snake graph](dist/github-snake-dark.svg?palette=github-dark)" >> README.md
+          echo "" >> README.md
+          echo "![GitHub activity ocean graph](dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)" >> README.md
+        shell: bash
