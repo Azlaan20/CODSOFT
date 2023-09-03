@@ -28,7 +28,7 @@ Welcome to my CODSOFT internship repository! This repository showcases the tasks
 ### Task 1: Movie Genre Classification
 In this task, I created a machine learning model to predict the genre of a movie based on its plot summary or other textual information. I utilized techniques like TF-IDF and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines.
 
-[Task 1 Details and Code](link_to_task_1_folder)
+[Task 1 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Movie%20Recommendation%20System)
 
 ### Task 2: Credit Card Fraud Detection
 For this task, I built a model to detect fraudulent credit card transactions using a dataset containing transaction information. I experimented with algorithms like Logistic Regression, Decision Trees, and Random Forests to classify transactions as fraudulent or legitimate.
