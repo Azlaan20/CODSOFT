@@ -2,7 +2,6 @@ name: Platane/snk@v3
 
 on:
   workflow_dispatch:
-
   issues:
     types:
       - opened
@@ -21,7 +20,7 @@ jobs:
       - name: Run Platane/snk action
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.Azlaan20 }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -34,4 +33,4 @@ jobs:
 
       - name: Set up environment variables
         env:
-          GITHUB_TOKEN: ${{ secrets.YOUR_SECRET_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
