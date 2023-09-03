@@ -55,7 +55,7 @@ In this AI task, I created a simple chatbot that responds to user inputs based o
 ### Task 2: Tic-Tac-Toe AI
 Task 2 involved implementing an AI agent to play Tic-Tac-Toe against a human player. I used algorithms like Minimax with or without Alpha-Beta Pruning to make the AI player unbeatable.
 
-[Task 2 Details and Code](https://github.com/Azlaan20/CODSOFT/blob/main/MinMax_Algorithm_TicTacToe_AI_Game.ipynb)
+[Task 2 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Tic%20Tac%20Toe%20Game)
 
 ### Task 4: Recommendation System
 In Task 4, I created a simple recommendation system that suggests items to users based on their preferences. I employed techniques like collaborative filtering or content-based filtering to recommend movies, books, or products to users.
