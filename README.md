@@ -28,7 +28,7 @@ Welcome to my CODSOFT internship repository! This repository showcases the tasks
 ### Task 1: Movie Genre Classification
 In this task, I created a machine learning model to predict the genre of a movie based on its plot summary or other textual information. I utilized techniques like TF-IDF and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines.
 
-[Task 1 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Movie%20Recommendation%20System)
+[Task 1 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Movie%20Genre%20Classification)
 
 ### Task 2: Credit Card Fraud Detection
 For this task, I built a model to detect fraudulent credit card transactions using a dataset containing transaction information. I experimented with algorithms like Logistic Regression, Decision Trees, and Random Forests to classify transactions as fraudulent or legitimate.
@@ -36,7 +36,7 @@ For this task, I built a model to detect fraudulent credit card transactions usi
 [Task 2 Details and Code](link_to_task_2_folder)
 
 ### Task 3: Customer Churn Prediction
-In Task 3, I developed a model to predict customer churn for a subscription-based service or business. I used historical customer data, including usage behavior and demographics, and experimented with algorithms like Logistic Regression, Random Forests, and Gradient Boosting.
+In Task 3, I developed a model to predict customer churn for a subscription-based service or business. I used historical customer data, including usage behaviour and demographics, and experimented with algorithms like Logistic Regression, Random Forests, and Gradient Boosting.
 
 [Task 3 Details and Code](link_to_task_3_folder)
 
@@ -48,7 +48,7 @@ Task 4 involved building an AI model to classify SMS messages as spam or legitim
 ## Artificial Intelligence Tasks
 
 ### Task 1: Chatbot with Rule-Based Responses
-In this AI task, I created a simple chatbot that responds to user inputs based on predefined rules. I used if-else statements and pattern matching techniques to identify user queries and provide appropriate responses.
+In this AI task, I created a simple chatbot that responds to user inputs based on predefined rules. I used if-else statements and pattern-matching techniques to identify user queries and provide appropriate responses.
 
 [Task 1 Details and Code](link_to_task_5_folder)
 
@@ -60,7 +60,7 @@ Task 2 involved implementing an AI agent to play Tic-Tac-Toe against a human pla
 ### Task 4: Recommendation System
 In Task 4, I created a simple recommendation system that suggests items to users based on their preferences. I employed techniques like collaborative filtering or content-based filtering to recommend movies, books, or products to users.
 
-[Task 4 Details and Code](link_to_task_7_folder)
+[Task 4 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Movie%20Recommendation%20System)
 
 ### Task 5: Face Detection and Recognition
 For Task 5, I developed an AI application that can detect and recognize faces in images or videos. I used pre-trained face detection models and optionally added face recognition capabilities.
@@ -72,7 +72,7 @@ Here's an interactive Snake game grid:
 <iframe src="https://your-snake-game-url.com" width="600" height="400" frameborder="0"></iframe>
 
 ## Additional Information
-- For each task, you can find detailed code and explanations in the respective task folders.
+- You can find detailed code and explanations in the respective task folders for each task.
 - If you have any questions or need assistance, feel free to reach out to me via email at [azlaanranjha2003@gmail.com](mailto:azlaanranjha2003@gmail.com).
 
 I'm grateful for the opportunity provided by CODSOFT, and I hope you find my work on these tasks insightful and informative. Thank you for visiting my GitHub repository!
