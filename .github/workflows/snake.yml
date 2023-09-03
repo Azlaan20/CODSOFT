@@ -1,33 +1,35 @@
+name: Platane/snk@v3
+
 on:
-  repository_dispatch:
-    types: [repository-opened]
+  issues:
+    types:
+      - opened
+  pull_request:
+    types:
+      - opened
 
 jobs:
-  generate-graph:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Generate Contribution Graph
+      - name: Run Platane/snk action
         uses: Platane/snk@v3
         with:
-          github_user_name: Azlaan20  # Specify your GitHub username here
+          github_user_name: ${{ github.Azlaan20 }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.YOUR_SECRET_TOKEN }} # Use the secret here
 
-      - name: Update README.md
-        run: |
-          echo "```" >> README.md
-          cat dist/github-snake.svg >> README.md
-          echo "```" >> README.md
-          echo "" >> README.md
-          echo "![GitHub activity snake graph](dist/github-snake-dark.svg?palette=github-dark)" >> README.md
-          echo "" >> README.md
-          echo "![GitHub activity ocean graph](dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)" >> README.md
-        shell: bash
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+
+      - name: Set up environment variables
+        env:
+          GITHUB_TOKEN: ${{ secrets.YOUR_SECRET_TOKEN }}
