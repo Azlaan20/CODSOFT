@@ -43,7 +43,7 @@ In Task 3, I developed a model to predict customer churn for a subscription-base
 ### Task 4: Spam SMS Detection
 Task 4 involved building an AI model to classify SMS messages as spam or legitimate. I employed techniques like TF-IDF and classifiers like Naive Bayes, Logistic Regression, and Support Vector Machines to identify spam messages.
 
-[Task 4 Details and Code](https://github.com/Azlaan20/CODSOFT/blob/main/SMS%20Spam%20Detection.ipynb)
+[Task 4 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/SMS%20Spam%20Detection)
 
 ## Artificial Intelligence Tasks
 
