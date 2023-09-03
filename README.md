@@ -73,7 +73,6 @@ For Task 5, I developed an AI application that can detect and recognize faces in
 ![GitHub activity dark snake graph](dist/github-snake-dark.svg?palette=github-dark)
 ![GitHub activity ocean graph](dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
 
-
 ## Additional Information
 - You can find detailed code and explanations in the respective task folders for each task.
 - If you have any questions or need assistance, feel free to reach out to me via email at [azlaanranjha2003@gmail.com](mailto:azlaanranjha2003@gmail.com).
