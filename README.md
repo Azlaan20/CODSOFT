@@ -33,7 +33,7 @@ In this task, I created a machine learning model to predict the genre of a movie
 ### Task 2: Credit Card Fraud Detection
 For this task, I built a model to detect fraudulent credit card transactions using a dataset containing transaction information. I experimented with algorithms like Logistic Regression, Decision Trees, and Random Forests to classify transactions as fraudulent or legitimate.
 
-[Task 2 Details and Code](link_to_task_2_folder)
+[Task 2 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Credit%20Card%20Fraud)
 
 ### Task 3: Customer Churn Prediction
 In Task 3, I developed a model to predict customer churn for a subscription-based service or business. I used historical customer data, including usage behaviour and demographics, and experimented with algorithms like Logistic Regression, Random Forests, and Gradient Boosting.
