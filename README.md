@@ -38,7 +38,7 @@ For this task, I built a model to detect fraudulent credit card transactions usi
 ### Task 3: Customer Churn Prediction
 In Task 3, I developed a model to predict customer churn for a subscription-based service or business. I used historical customer data, including usage behaviour and demographics, and experimented with algorithms like Logistic Regression, Random Forests, and Gradient Boosting.
 
-[Task 3 Details and Code](link_to_task_3_folder)
+[Task 3 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Customer%20Churn%20Prediction)
 
 ### Task 4: Spam SMS Detection
 Task 4 involved building an AI model to classify SMS messages as spam or legitimate. I employed techniques like TF-IDF and classifiers like Naive Bayes, Logistic Regression, and Support Vector Machines to identify spam messages.
