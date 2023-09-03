@@ -57,15 +57,15 @@ Task 2 involved implementing an AI agent to play Tic-Tac-Toe against a human pla
 
 [Task 2 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Tic%20Tac%20Toe%20Game)
 
-### Task 4: Recommendation System
+### Task 3: Recommendation System
 In Task 4, I created a simple recommendation system that suggests items to users based on their preferences. I employed techniques like collaborative filtering or content-based filtering to recommend movies, books, or products to users.
 
-[Task 4 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Movie%20Recommendation%20System)
+[Task 3 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Movie%20Recommendation%20System)
 
-### Task 5: Face Detection and Recognition
+### Task 4: Face Detection and Recognition
 For Task 5, I developed an AI application that can detect and recognize faces in images or videos. I used pre-trained face detection models and optionally added face recognition capabilities.
 
-[Task 5 Details and Code](link_to_task_8_folder)
+[Task 4 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Face%20Detection%20and%20Recognition)
 
 ## Snake Game Grid
 Here's an interactive Snake game grid:
