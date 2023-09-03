@@ -50,7 +50,7 @@ Task 4 involved building an AI model to classify SMS messages as spam or legitim
 ### Task 1: Chatbot with Rule-Based Responses
 In this AI task, I created a simple chatbot that responds to user inputs based on predefined rules. I used if-else statements and pattern-matching techniques to identify user queries and provide appropriate responses.
 
-[Task 1 Details and Code](link_to_task_5_folder)
+[Task 1 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Response-Based%20Chatbot)
 
 ### Task 2: Tic-Tac-Toe AI
 Task 2 involved implementing an AI agent to play Tic-Tac-Toe against a human player. I used algorithms like Minimax with or without Alpha-Beta Pruning to make the AI player unbeatable.
@@ -66,10 +66,6 @@ In Task 4, I created a simple recommendation system that suggests items to users
 For Task 5, I developed an AI application that can detect and recognize faces in images or videos. I used pre-trained face detection models and optionally added face recognition capabilities.
 
 [Task 4 Details and Code](https://github.com/Azlaan20/CODSOFT/tree/main/Face%20Detection%20and%20Recognition)
-
-## Snake Game Grid
-Here's an interactive Snake game grid:
-<iframe src="https://your-snake-game-url.com" width="600" height="400" frameborder="0"></iframe>
 
 ## Additional Information
 - You can find detailed code and explanations in the respective task folders for each task.
