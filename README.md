@@ -43,7 +43,7 @@ In Task 3, I developed a model to predict customer churn for a subscription-base
 ### Task 4: Spam SMS Detection
 Task 4 involved building an AI model to classify SMS messages as spam or legitimate. I employed techniques like TF-IDF and classifiers like Naive Bayes, Logistic Regression, and Support Vector Machines to identify spam messages.
 
-[Task 4 Details and Code](link_to_task_4_folder)
+[Task 4 Details and Code]([link_to_task_4_folder](https://github.com/Azlaan20/CODSOFT/blob/main/SMS%20Spam%20Detection.ipynb))
 
 ## Artificial Intelligence Tasks
 
@@ -55,17 +55,17 @@ In this AI task, I created a simple chatbot that responds to user inputs based o
 ### Task 2: Tic-Tac-Toe AI
 Task 2 involved implementing an AI agent to play Tic-Tac-Toe against a human player. I used algorithms like Minimax with or without Alpha-Beta Pruning to make the AI player unbeatable.
 
-[Task 2 Details and Code](https://github.com/Azlaan20/CODSOFT/blob/main/MinMax_Algorithm_TicTacToe_AI_Game.ipynb)
+[Task 2 Details and Code]([link_to_task_6_folder]https://github.com/Azlaan20/CODSOFT/blob/main/MinMax_Algorithm_TicTacToe_AI_Game.ipynb)
 
 ### Task 4: Recommendation System
 In Task 4, I created a simple recommendation system that suggests items to users based on their preferences. I employed techniques like collaborative filtering or content-based filtering to recommend movies, books, or products to users.
 
-[Task 4 Details and Code](link_to_task_8_folder)
+[Task 4 Details and Code](link_to_task_7_folder)
 
 ### Task 5: Face Detection and Recognition
 For Task 5, I developed an AI application that can detect and recognize faces in images or videos. I used pre-trained face detection models and optionally added face recognition capabilities.
 
-[Task 5 Details and Code](link_to_task_9_folder)
+[Task 5 Details and Code](link_to_task_8_folder)
 
 ## Snake Game Grid
 Here's an interactive Snake game grid:
