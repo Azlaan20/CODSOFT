@@ -6,6 +6,7 @@ Welcome to my CODSOFT internship repository! This repository showcases the tasks
 [![GitHub forks](https://img.shields.io/github/forks/Azlaan20/CODSOFT)](https://github.com/Azlaan20/CODSOFT/network)
 [![GitHub stars](https://img.shields.io/github/stars/Azlaan20/CODSOFT)](https://github.com/Azlaan20/CODSOFT/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Azlaan20/CODSOFT)](https://github.com/Azlaan20/CODSOFT/blob/master/LICENSE)
+![GitHub views](https://komarev.com/ghpvc/?username=Azl)
 
 ## Table of Contents
 
